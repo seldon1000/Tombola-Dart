@@ -1,2 +1,2 @@
 # Tombola-Dart
-Extremely simple implementations of the italian bingo game
+This is an italian bingo implementation in Dart language. It's just a reimplementation of one of my old school project. Just compile it and run.
